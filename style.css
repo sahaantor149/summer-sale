@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@500;600;700&display=swap');
+
+body{
+  font-family: 'Work Sans', sans-serif;
+}
+.header{
+  height: 100vh;
+}
+.towsite{
+  display: flex;
+  align-items: center;
+}
+.headingimg img {
+  width: 100%;
+}
+.header {
+  display: flex;
+  padding: 40px 0px;
+}
+.header {
+  background: rgba(246, 246, 178, 0.562);
+}
+.headings h1 {
+  font-size: 50px;
+  font-weight: 700;
+}
+.inner {
+  color: rgb(255, 93, 120);
+}
+.headfoot{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+.offer {
+  background: #E527B2;
+  color: white;
+  padding: 10px 20px;
+}
+.products {
+  margin-top: 3%;
+}
+.title {
+  font-size: 20px;
+  font-weight: 600;
+}
+.items {
+  background: #fff;
+  padding: 15px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+.items img {
+  background: #c7c6c67a;
+}
+.items span{
+  color: rgba(17, 17, 17, 0.50);
+}
+body {
+  background: #c7c6c67a;
+}
+.pas {
+  font-size: 40px;
+  font-weight: 600;
+}
+.iss {
+  padding: 5px 25px;
+}
+.inpo {
+  padding: 8px 20px;
+}
+.have {
+  background: #fff;
+  padding: 15px 25px;
+  border-radius: 5px;
+}
+.have li{
+  font-size: 24px;  
+  font-weight: 500;
+}
+.sss {
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid grey;
+}
+.offers {
+  background: #E527B2;
+  color: #fff;
+  font-size: 16px;
+  font-weight: 700;
+  width: 100%;
+}
